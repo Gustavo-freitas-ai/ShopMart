@@ -123,7 +123,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Gustavo Freitas Dias</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gustavobiggg64@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=gustavobiggg64@gmail.com)](mailto:gustavobiggg64@gmail.com)
 
 ---
 
